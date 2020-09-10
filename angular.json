@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "EleQueEsff-Licors"
+    }
+  },
+  "defaultProject": "EleQueEsff-Licors",
+  "cli": {
+    "analytics": "148bbdc4-d1ff-490d-a70e-06622cc3b044"
+  }
 }
